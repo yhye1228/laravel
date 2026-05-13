@@ -6,3 +6,22 @@
 ├─ 프로젝트 목록
 ├─ 프로젝트 상세
 └─ 문의하기
+
+https://www.apachefriends.org/download.html에서
+8.2v 다운로드 후 설치하기
+설치경로 : C:\xampp
+설치후 
+Apache → Start
+MySQL  → Start
+http://localhost 확인
+http://localhost/phpmyadmin 확인
+
+[CMD]
+cd C:\xampp\php
+php -v
+=>PHP 8.2.12 (cli) (built: Oct 24 2023 21:15:15) (ZTS Visual C++ 2019 x64)
+Copyright (c) The PHP Group
+Zend Engine v4.2.12, Copyright (c) Zend Technologies
+
+https://getcomposer.org/download/에서 
+
